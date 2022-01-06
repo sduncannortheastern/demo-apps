@@ -10,8 +10,8 @@ const theme = extendTheme({
   },
 });
 
-const appId = 'YOUR_APP_ID';
-const serverUrl = 'YOUR_SERVER_URL';
+const appId = 'iRlRlPaHmCS6TJzcg0pESYpQnrwGZSZeCtTY2hGM';
+const serverUrl = 'https://xtn86jr9z59s.moralishost.com:2053/server';
 
 ReactDOM.render(
   <React.StrictMode>

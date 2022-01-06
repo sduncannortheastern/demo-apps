@@ -1,9 +1,8 @@
-const serverUrl = "INSERT_SERVER_URL"; //Server url from moralis.io
-const appId = "INSERT_APP_ID"; // Application id from moralis.io
+const serverUrl = "https://xtn86jr9z59s.moralishost.com:2053/server"; //Server url from moralis.io
+const appId = "iRlRlPaHmCS6TJzcg0pESYpQnrwGZSZeCtTY2hGM"; // Application id from moralis.io
 Moralis.start({ serverUrl, appId });
 
 const web3 = new Moralis.Web3();
-
 let swapQuery;
 let statQuery;
 
